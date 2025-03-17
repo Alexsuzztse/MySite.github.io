@@ -1,4 +1,6 @@
 # MySite.github.io
+Проект лендинга сайта для путешественников.
+
 ![image](https://github.com/user-attachments/assets/01d966bd-3637-44c6-8375-aa91a0f8b638)
 ![image](https://github.com/user-attachments/assets/d1fb05e1-0298-4f2f-9e6f-595421f3e808)
 ![image](https://github.com/user-attachments/assets/518ba3af-f29e-4002-a6c3-1688f158097e)
